@@ -1,0 +1,36 @@
+[
+      {
+        "id": 1,
+        "name": "Lake Holon Tour",
+        "details": "Chicken et quis leberkas enim bacon, meatball tongue. Cow labore ham cupim. Nisi minim reprehenderit, id proident do venison deserunt. Leberkas shoulder doner, mollit short ribs enim sausage cupidatat. Proident chicken ipsum pancetta andouille.",
+        "image": "holon.jpg",
+        "rates": [
+            { "noOfPersons": 1, "amount": 900 },
+            { "noOfPersons": 5, "amount": 750 },
+            { "noOfPersons": 10, "amount": 500 }
+        ],
+        "type": "public"
+      },
+      {
+        "id": 2,
+        "name": "El Nido Tour",
+        "details": "Spicy jalapeno bacon ipsum dolor amet shoulder culpa alcatra capicola, pig ex commodo mollit nostrud fugiat id et kevin. Voluptate kielbasa jerky turducken dolor esse. Incididunt pork chop laborum, sausage leberkas ribeye quis ball tip. Turducken biltong venison ut beef ribs. Brisket fugiat ea alcatra, quis swine in ham beef.",
+        "image": "el-nido.jpg",
+        "rates": [
+            { "noOfPersons": 1, "amount": 900 },
+            { "noOfPersons": 5, "amount": 750 },
+            { "noOfPersons": 10, "amount": 500 }
+        ],
+        "type": "public"
+      },
+      {
+        "id": 1000,
+        "name": "Private Tour A",
+        "details": "Chicken et quis leberkas enim bacon, meatball tongue. Cow labore ham cupim. Nisi minim reprehenderit, id proident do venison deserunt. Leberkas shoulder doner, mollit short ribs enim sausage cupidatat. Proident chicken ipsum pancetta andouille.",
+        "image": "background.jpg",
+        "rates": [
+            { "noOfPersons": 5, "amount": 2000 }
+        ],
+        "type": "private"
+      } 
+]

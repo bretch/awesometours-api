@@ -1,0 +1,21 @@
+{
+  "name": "awesome-tours-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "jazelbretch <dev.jazelbretch@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "express-jwt": "^3.4.0",
+    "jwks-rsa": "^1.1.1",
+    "nodemon": "^1.12.1"
+  }
+}
